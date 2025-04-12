@@ -1,4 +1,5 @@
 voila 
+azure
 azure-identity
 azure-mgmt-storage
 azure-storage-blob
